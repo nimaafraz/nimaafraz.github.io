@@ -14,7 +14,7 @@ location: "Dublin, Ireland"
      <img 
       src="../images/talks/Hyperledger-Talk-2020.jpg" 
       alt="Hyperledger Talk" 
-      style="width:50%;">
+      style="width:60%;">
       </a>
     </div>
 
