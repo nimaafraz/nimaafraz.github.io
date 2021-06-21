@@ -9,6 +9,15 @@ location: "Dublin, Ireland"
 ---
 [![Industry Talk 2021](https://github.com/nimaafraz/nimaafraz.github.io/blob/e2d3d940aa15f2aa5a2cf48aa14cd79ed8051948/images/IndustryTalk.jpeg)](https://www.youtube.com/watch?v=V-GOpEkM1OE)
 
+<div align="center">
+      <a href="https://www.youtube.com/watch?v=V-GOpEkM1OE">
+     <img 
+      src="/images/IndustryTalk.jpeg" 
+      alt="Everything Is AWESOME" 
+      style="width:100%;">
+      </a>
+    </div>
+
 This talk looks beyond the blockchain hype to present a clearer picture of the role blockchain will play in future communication networks.
 About this event
 Blockchain technology has emerged as a solution providing trust, security and identity managment for companies in the telecommunications, Internet of Things and energy sectors.
