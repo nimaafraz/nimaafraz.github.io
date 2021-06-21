@@ -7,8 +7,7 @@ venue: "CONNECT Centre"
 date: 2021-5-20
 location: "Dublin, Ireland"
 ---
-
-[![Industry Talk 2021]({https://github.com/nimaafraz/nimaafraz.github.io/blob/e2d3d940aa15f2aa5a2cf48aa14cd79ed8051948/images/IndustryTalk.jpeg})]({https://www.youtube.com/watch?v=V-GOpEkM1OE} "Link Title")
+[![Industry Talk 2021](https://github.com/nimaafraz/nimaafraz.github.io/blob/e2d3d940aa15f2aa5a2cf48aa14cd79ed8051948/images/IndustryTalk.jpeg)](https://www.youtube.com/watch?v=V-GOpEkM1OE)
 
 This talk looks beyond the blockchain hype to present a clearer picture of the role blockchain will play in future communication networks.
 About this event
