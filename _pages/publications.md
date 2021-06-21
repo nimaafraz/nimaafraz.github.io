@@ -16,7 +16,6 @@ author_profile: true
 {% endfor %} -->
 
 
-# PUBLICATIONS
 
 ## PATENT
 
