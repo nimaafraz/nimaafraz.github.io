@@ -12,7 +12,7 @@ location: "Dublin, Ireland"
 <div align="center">
       <a href="https://youtu.be/BUGVqb_U_jY">
      <img 
-      src="../Hyperledger-Talk-2020.jpg" 
+      src="../images/talks/Hyperledger-Talk-2020.jpg" 
       alt="Hyperledger Talk" 
       style="width:25%;">
       </a>
