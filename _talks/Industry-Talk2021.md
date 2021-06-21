@@ -18,6 +18,8 @@ location: "Dublin, Ireland"
       </a>
     </div>
 
+
+
 This talk looks beyond the blockchain hype to present a clearer picture of the role blockchain will play in future communication networks.
 About this event
 Blockchain technology has emerged as a solution providing trust, security and identity managment for companies in the telecommunications, Internet of Things and energy sectors.
