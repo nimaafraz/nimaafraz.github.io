@@ -7,12 +7,12 @@ venue: "CONNECT Centre"
 date: 2021-5-20
 location: "Dublin, Ireland"
 ---
-[![Industry Talk 2021](https://github.com/nimaafraz/nimaafraz.github.io/blob/e2d3d940aa15f2aa5a2cf48aa14cd79ed8051948/images/IndustryTalk.jpeg)](https://www.youtube.com/watch?v=V-GOpEkM1OE)
-
+<!-- [![Industry Talk 2021](https://github.com/nimaafraz/nimaafraz.github.io/blob/e2d3d940aa15f2aa5a2cf48aa14cd79ed8051948/images/IndustryTalk.jpeg)](https://www.youtube.com/watch?v=V-GOpEkM1OE)
+ -->
 <div align="center">
       <a href="https://www.youtube.com/watch?v=V-GOpEkM1OE">
      <img 
-      src="/images/IndustryTalk.jpeg" 
+      src="../images/talks/IndustryTalk2021.jpg" 
       alt="Everything Is AWESOME" 
       style="width:100%;">
       </a>
