@@ -14,7 +14,7 @@ location: "Dublin, Ireland"
      <img 
       src="../images/talks/ICC-Tutorial-2020.jpg" 
       alt="Tutorial at ICC 2020 Conference" 
-      style="width:100%;">
+      style="width:60%;">
       </a>
     </div>
 
