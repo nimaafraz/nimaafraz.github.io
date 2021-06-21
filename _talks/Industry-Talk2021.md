@@ -14,7 +14,7 @@ location: "Dublin, Ireland"
      <img 
       src="../images/talks/IndustryTalk2021.jpg" 
       alt="Everything Is AWESOME" 
-      style="width:50%;">
+      style="width:60%;">
       </a>
     </div>
 
