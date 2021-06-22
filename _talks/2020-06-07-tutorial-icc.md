@@ -4,7 +4,7 @@ collection: talks
 type: "Talk"
 permalink: /talks/ICC-Tutorial-2020
 venue: "Tutorial at ICC 2020 Conference"
-date: 2021-6-7
+date: 2020-6-7
 location: "Dublin, Ireland"
 ---
 <!-- [![Industry Talk 2021](https://github.com/nimaafraz/nimaafraz.github.io/blob/e2d3d940aa15f2aa5a2cf48aa14cd79ed8051948/images/IndustryTalk.jpeg)]
