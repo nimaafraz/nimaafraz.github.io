@@ -2,12 +2,12 @@
 
 layout: archive  
 title: "PhD Opportunities"  
-permalink: /PhD\_Opportunities/  
-author\_profile: true
+permalink: /PhD_Opportunities/  
+author_profile: true
 
 ---
 
-{% include base\_path %}
+{% include base_path %}
 
 ### Advertised PhD Vacancies with pre-approved funding:
 
