@@ -236,6 +236,15 @@ defaults:
       author_profile: true
       share: true
       comment: true
+  # _PhD_Opportunities
+  - scope:
+      path: ""
+      type: PhD_Opportunities
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
   # _talks
   - scope:
       path: ""
