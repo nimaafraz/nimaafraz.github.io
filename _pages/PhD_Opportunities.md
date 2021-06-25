@@ -8,15 +8,17 @@ author_profile: true
 ---
 
 {% include base_path %}
+There are two ways you can join our team as a PhD student:
+
 
 ### Advertised PhD Vacancies with pre-approved funding:
 
-If you are interested in joining our team as a PhD Student carefully read the following material and make sure you keep that could updated with our advertised PhD vacancies.
+If you are interested in joining our team as a PhD Student carefully read the following material and make sure you keep updated with our advertised PhD vacancies.
 
 *   [The complete PhD journey at UCD](https://www.ucd.ie/graduatestudies/researchstudenthub/phdlifecycle/): From Application to Conferring
 *   [UCD Graduate Research Student Handbook](https://www.ucd.ie/graduatestudies/researchstudenthub/researchstudenthandbook/)
 
-### How to Fund your own PhD Proposal:
+### Secure Funding for your own PhD Proposal:
 
 In addition to the PhD vacancies that come with funding there are other opportunities for the applicant to acquire funding for their PhD studies. The following table summurises the available funding opportunities in Ireland where we can collaborate on preparing the proposals.  
 \*I will try to keep the following table updated but do not get discouraged if the link says the call is currently closed. These Calls open almost every year.
