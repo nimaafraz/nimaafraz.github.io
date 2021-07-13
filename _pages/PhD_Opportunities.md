@@ -16,6 +16,8 @@ If you are interested in joining our team as a PhD Student carefully read the fo
 
 *   [The complete PhD journey at UCD](https://www.ucd.ie/graduatestudies/researchstudenthub/phdlifecycle/): From Application to Conferring
 *   [UCD Graduate Research Student Handbook](https://www.ucd.ie/graduatestudies/researchstudenthub/researchstudenthandbook/)
+*   [PhD in a Nutshell](https://www.ucd.ie/graduatestudies/researchstudenthub/researchprogrammes/keypointsonresearchprogrammes/phdinanutshell/)
+
 
 ### Secure Funding for your own PhD Proposal:
 
